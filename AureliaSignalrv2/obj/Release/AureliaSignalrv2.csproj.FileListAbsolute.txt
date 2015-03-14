@@ -1,0 +1,5 @@
+D:\Aurelia\AureliaSignalrv2\AureliaSignalrv2\bin\AureliaSignalrv2.dll.config
+D:\Aurelia\AureliaSignalrv2\AureliaSignalrv2\bin\AureliaSignalrv2.dll
+D:\Aurelia\AureliaSignalrv2\AureliaSignalrv2\bin\AureliaSignalrv2.pdb
+D:\Aurelia\AureliaSignalrv2\AureliaSignalrv2\obj\Release\AureliaSignalrv2.dll
+D:\Aurelia\AureliaSignalrv2\AureliaSignalrv2\obj\Release\AureliaSignalrv2.pdb
